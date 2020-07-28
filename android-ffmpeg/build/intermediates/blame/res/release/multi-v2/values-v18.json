@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Sudher Kumar Kapoor\\Downloads\\FFmpeg-Android-pull_request_Q\\FFmpeg-Android-pull_request_Q\\android-ffmpeg\\build\\intermediates\\res\\merged\\release\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sudher Kumar Kapoor\\.gradle\\caches\\transforms-2\\files-2.1\\75421fd5cf3e3749cea5284c6935ee6b\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Sudher Kumar Kapoor\\Downloads\\FFmpeg-Android-pull_request_Q\\FFmpeg-Android-pull_request_Q\\android-ffmpeg\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sudher Kumar Kapoor\\.gradle\\caches\\transforms-2\\files-2.1\\75421fd5cf3e3749cea5284c6935ee6b\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
