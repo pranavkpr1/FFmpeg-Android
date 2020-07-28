@@ -1,14 +1,14 @@
 apply plugin: 'com.android.library'
 
 ext {
-    publishedGroupId = 'nl.bravobit'
+    publishedGroupId = 'com.github.pranavkpr1'
     libraryName = 'Android FFmpeg'
     artifact = 'android-ffmpeg'
 
     libraryDescription = 'FFmpeg/FFprobe compiled for Android. Execute FFmpeg and FFprobe commands with ease in your Android project.'
 
-    siteUrl = 'https://github.com/bravobit/FFmpeg-Android'
-    gitUrl = 'https://github.com/bravobit/FFmpeg-Android.git'
+    siteUrl = 'https://github.com/pranavkpr1/FFmpeg-Android'
+    gitUrl = 'https://github.com/pranavkpr1/FFmpeg-Android'
 
     libraryVersion = '1.1.7'
 
